@@ -68,13 +68,13 @@ behavioural-finance-analyser/
 - Exit criteria: 1 complete DA project, tell a story from raw data to insights
 
 ### TODO — Stage 1:
-- [ ] Load dataset and inspect it (shape, columns, dtypes, nulls)
-- [ ] Clean the data (handle nulls, fix dtypes, rename columns)
-- [ ] EDA — ask and answer 5 key business questions from the data
-- [ ] Visualize spending patterns (monthly trends, categories, anomalies)
-- [ ] Find 3 behavioural insights (why do people spend the way they do?)
-- [ ] Write a short findings summary in docs/
-- [ ] Stage 1 complete when: can confidently explain the data and its story
+- [ yup ] Load dataset and inspect it (shape, columns, dtypes, nulls)
+- [ yup ] Clean the data (handle nulls, fix dtypes, rename columns)
+- [ yup ] EDA — ask and answer 3 key business questions from the data
+- [ yup ] Visualize spending patterns (monthly trends, categories, anomalies)
+- [ yup ] Find 3 behavioural insights (why do people spend the way they do?)
+- [ yup ] Write a short findings summary in docs/
+- [ yup ] Stage 1 complete when: can confidently explain the data and its story
 
 ## Next Session Goal
 Start first EDA notebook:
