@@ -26,5 +26,5 @@ uvicorn==0.30.1
 pydantic==2.7.1
 
 # ─── Utilities ───────────────────────────────────────────
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 requests==2.32.2
