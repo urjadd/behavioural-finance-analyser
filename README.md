@@ -14,8 +14,6 @@ Built across 6 stages, it grows from a data analysis notebook into a fully deplo
 
 ## Live Demo
 
-Try it here: *(add Streamlit Cloud link after deployment)*
-
 API Endpoint: `https://behavioural-finance-analyser.onrender.com/predict`
 
 ---
